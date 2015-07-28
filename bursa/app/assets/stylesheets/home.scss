@@ -1,0 +1,26 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.user-name {
+    font-size: 24pt;
+    padding: 20px 20px 0px 40px;
+}
+
+.profile-picture {
+  img {
+    width: 500px;
+    padding: 20px 20px 20px 40px;
+  }
+}
+
+.homepage-link {
+    display: block;
+    padding: 0px 20px 0px 40px;
+    font-size: 30px;
+}
+
+#td_first {
+    vertical-align: top;
+    padding-top: 40px;
+}
